@@ -1,4 +1,11 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=220&section=header&text=Gesture-Based%20Drawing%20System&fontSize=38&fontColor=ffffff&animation=fadeIn" />
+</p>
+
 # 🎨 Gesture-Based Drawing System 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Draw+in+the+Air+Using+Hand+Gestures;Powered+by+OpenCV+and+MediaPipe;Real-Time+Computer+Vision+Project" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.x-blue.svg">
@@ -23,15 +30,16 @@ The system uses a webcam to track hand movements and converts finger gestures in
 
 ---
 
-## 🚀 Features
+## 🚀 Features ✨
 
-✔️ Real-time hand tracking via webcam  
-✔️ Gesture-based drawing using index finger  
-✔️ Virtual color palette (UI bar)  
-✔️ Eraser mode using hand gestures  
-✔️ Adjustable brush & eraser thickness  
-✔️ Live color preview sidebar  
-✔️ Smooth and responsive drawing experience  
+
+✔️ 🖐️ Real-time hand tracking via webcam  
+✔️ 🎨 Virtual color palette with UI  
+✔️ ✍️ Gesture-based drawing system  
+✔️ 🧽 Eraser mode using hand gestures  
+✔️ ⚡ Smooth & responsive performance  
+✔️ 🧠 Computer Vision powered logic  
+
 
 ---
 
@@ -47,13 +55,14 @@ The system uses a webcam to track hand movements and converts finger gestures in
 
 ## 🛠️ Tech Stack
 
-| Technology | Description |
-|----------|------------|
-| Python | Core programming language |
-| OpenCV | Image processing & rendering |
-| MediaPipe | Hand landmark detection |
-| NumPy | Matrix & array operations |
-| Math | Distance calculations |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,opencv&theme=light" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MediaPipe-Hand%20Tracking-orange">
+  <img src="https://img.shields.io/badge/Computer%20Vision-RealTime-success">
+</p>
 
 ---
 
@@ -99,3 +108,7 @@ Muhammad Asim Ilyas
 
 🔗 GitHub: https://github.com/asimalyas
 📸 Instagram: @code_with_asim
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:92FE9D,100:00C9FF&height=120&section=footer&text=Built%20with%20❤️%20by%20Muhammad%20Asim&fontSize=20&fontColor=ffffff" />
+</p>
